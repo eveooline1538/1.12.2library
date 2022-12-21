@@ -11,9 +11,9 @@
       "id": "EvePixelmon",
       "name": "EvePixelmon",
       "description": "EvePixelmon 1.12.2 Forge v14.23.5.2860",
-      "icon": null,
+      "icon": "https://github.com/eveooline1538/1.12.2library/raw/main/library/icon/icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "evepixelmon.kro.kr",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
