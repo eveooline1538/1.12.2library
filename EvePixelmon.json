@@ -254,6 +254,76 @@
               }
             }
           ]
+        },
+        {
+          "id": "Armourers:Armourers-Workshop:1.12.2-0.51.0@jar",
+          "name": "Armourers Workshop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2678747,
+            "url": "https://github.com/eveooline1538/1.12.2library/raw/main/mods/Armourers-Workshop-1.12.2-0.51.0.jar",
+            "MD5": "12954551f39bed840b32fd8be8fddb54"
+          }
+        },
+        {
+          "id": "Custom:NPC:0219jar",
+          "name": "CustomNPC_0219",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13056845,
+            "url": "https://github.com/eveooline1538/1.12.2library/raw/main/mods/CustomNPC_0219.jar",
+            "MD5": "a4cadf9f81b1a1ed0593c97c5dd5d969"
+          }
+        },
+        {
+          "id": "Korean:Chat:creo-1.12-1.9jar",
+          "name": "koreanchat-creo-1.12-1.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 30763,
+            "url": "https://github.com/eveooline1538/1.12.2library/raw/main/mods/koreanchat-creo-1.12-1.9.jar",
+            "MD5": "91492de16021a4f7018eb5d523f45fc2"
+          }
+        },
+        {
+          "id": "jei:JustEnoughItems:1.12.2jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 653211,
+            "url": "https://github.com/eveooline1538/1.12.2library/raw/main/mods/조합법.jar",
+            "MD5": "1dee4be93d666e2228039c551e927b35"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.12.2jar",
+          "name": "journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6990968,
+            "url": "https://github.com/eveooline1538/1.12.2library/raw/main/mods/지도모드.jar",
+            "MD5": "8160b970fc14cff30dff2785bb9f964c"
+          }
+        },
+        {
+          "id": "chiselsandbits:chiselsandbits:1.12.2jar",
+          "name": "Chisels&Bits",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 736490,
+            "url": "https://github.com/eveooline1538/1.12.2library/raw/main/mods/치즐모드.jar",
+            "MD5": "a78d8e65df16e0b2a7cc33af4082eb67"
+          }
+        },
+        {
+          "id": "Pixelmon:Refoged:1.12.2jar",
+          "name": "Pixelmon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 367095232,
+            "url": "https://github.com/eveooline1538/1.12.2library/raw/main/mods/치즐모드.jar",
+            "MD5": "6538ad8842d3a0cbec49334596463b8b"
+          }
         }
       ]
     }
