@@ -2,21 +2,21 @@
   "version": "1.0.0",
   "rss": "",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "clientId": "",
     "smallImageText": "EvePixelmon",
     "smallImageKey": "seal-circle"
   },
   "servers": [
     {
-      "id": "EvePixelmon",
-      "name": "EvePixelmon",
-      "description": "EvePixelmon 1.12.2 Forge v14.23.5.2860",
+      "id": "EvE",
+      "name": "『EvePixelmon』",
+      "description": "버전 : 1.12.2",
       "icon": "https://github.com/eveooline1538/1.12.2library/raw/main/library/icon/icon.png",
       "version": "1.0.0",
       "address": "evepixelmon.kro.kr",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "EvePixelmon",
+        "shortId": "포켓몬 서버",
         "largeImageText": "EvePixelmon",
         "largeImageKey": "server-prod"
       },
@@ -256,8 +256,8 @@
           ]
         },
         {
-          "id": "Armourers:Armourers-Workshop:1.12.2-0.51.0@jar",
-          "name": "Armourers Workshop",
+          "id": "moe.plushie:Armourers-Workshop:1.12.2-0.51.0@jar",
+          "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
             "size": 2678747,
@@ -266,8 +266,8 @@
           }
         },
         {
-          "id": "Custom:NPC:0219jar",
-          "name": "CustomNPC_0219",
+          "id": "noppes.npcs:customnpcs:1.12@jar",
+          "name": "CustomNPCs",
           "type": "ForgeMod",
           "artifact": {
             "size": 13056845,
@@ -276,8 +276,8 @@
           }
         },
         {
-          "id": "Korean:Chat:creo-1.12-1.9jar",
-          "name": "koreanchat-creo-1.12-1.9",
+          "id": "creo.mod:koreanchat:1.12-1.9@jar",
+          "name": "Korean Chat",
           "type": "ForgeMod",
           "artifact": {
             "size": 30763,
@@ -285,8 +285,8 @@
             "MD5": "91492de16021a4f7018eb5d523f45fc2"
           }
         },
-        {
-          "id": "jei:JustEnoughItems:1.12.2jar",
+		{
+          "id": "jei:JustEnoughItems:1.12.2@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
           "artifact": {
@@ -295,8 +295,8 @@
             "MD5": "1dee4be93d666e2228039c551e927b35"
           }
         },
-        {
-          "id": "journeymap:journeymap:1.12.2jar",
+		{
+          "id": "journeymap:journeymap:1.12.2@jar",
           "name": "journeymap",
           "type": "ForgeMod",
           "artifact": {
@@ -305,8 +305,8 @@
             "MD5": "8160b970fc14cff30dff2785bb9f964c"
           }
         },
-        {
-          "id": "chiselsandbits:chiselsandbits:1.12.2jar",
+		{
+          "id": "chiselsandbits:chiselsandbits:1.12.2@jar",
           "name": "Chisels&Bits",
           "type": "ForgeMod",
           "artifact": {
@@ -316,8 +316,8 @@
           }
         },
         {
-          "id": "Pixelmon:Refoged:1.12.2jar",
-          "name": "Pixelmon",
+          "id": "Pixelmon:Reforged:1.12.2@jar",
+          "name": "Pixelmon-1.12.2-universal",
           "type": "ForgeMod",
           "artifact": {
             "size": 367095232,
